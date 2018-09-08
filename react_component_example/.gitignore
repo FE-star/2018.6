@@ -1,0 +1,11 @@
+/dist
+/node_modules
+npm-debug.log*
+.vscode
+*.log
+.DS_Store
+.pack-tmp
+*~
+*.swo
+*.swp
+.idea

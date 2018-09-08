@@ -1,0 +1,15 @@
+.display-component {
+    position: relative;
+
+    .pic {
+        width: 100%;
+        height: 0;
+        padding-top: 100%;
+    }
+
+    .info {
+        position: absolute;
+        top: 0;
+        margin: 10px;
+    }
+}
